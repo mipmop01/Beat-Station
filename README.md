@@ -103,11 +103,11 @@ along with the bot/relay script itself.
 
 ### LICENSE
 
-Paradise is licensed under the GNU Affero General Public License version 3.
+Beat!Station is licensed under the GNU Affero General Public License version 3.
 As of 5th January 2015 any new contributions are licensed under the AGPL as well,
 if you wish to submit code under the GPL v3 then commits and files must be marked as such
 in comments. If you wish to use our code in a closed source manner you may use anything
-before commit 445615b8439bf606ff204a42c8e7b6b69d983255,
+before commit 445615b8439bf606ff204a42c8e7b6b69d983255 on [Paradise](https://github.com/ParadiseSS13/Paradise),
 which is licensed under GPL v3.
 The major change here is that if you host a server using any code licensed under AGPL you
 are required to provide full source code for your servers users as well,
