@@ -1,1 +1,0 @@
-#define ismovableatom(A) istype(A, /atom/movable)
