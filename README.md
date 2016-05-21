@@ -2,7 +2,8 @@
 
 It's based on [Paradise Station](https://github.com/ParadiseSS13/Paradise)
 
-
+# Getting the code
+-
 The more complicated and easier to update method is using git.  
 You'll need to download git or some client from [here](http://git-scm.com/).  
 When that's installed, right click in any folder and click on "Git Bash".  
