@@ -1,6 +1,6 @@
 # Beat!Station
 
-It's based on Paradise
+It's based on [Paradise Station](https://github.com/ParadiseSS13/Paradise)
 
 
 The more complicated and easier to update method is using git.  
