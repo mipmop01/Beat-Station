@@ -1,7 +1,7 @@
 # Beat!Station
--
+
 It's based on Paradise
--
+
 
 The more complicated and easier to update method is using git.  
 You'll need to download git or some client from [here](http://git-scm.com/).  
