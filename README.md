@@ -4,6 +4,7 @@ It's based on [Paradise Station](https://github.com/ParadiseSS13/Paradise) - Thi
 
 # Information
 This is a code used in a Brazilian server. Everyone is welcome to contribute though.
+I'm currently using music from Kevin MacLeod. Licenses are on the bottom of the file.
 
 # Getting the code
 The more complicated and easier to update method is using git.  
@@ -126,5 +127,22 @@ All other assets including icons and sound files are licensed under the
 Creative Commons 3.0 BY-SA license (https://creativecommons.org/licenses/by-sa/3.0/),
 unless otherwise indicated.
 
+Credits for songs used:
+Thunderbird Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+Thunderbird Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+Orion 300XB Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+Myst on the Moor Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+Music by: Sirius Beat - Tronicles
+Link: http://youtu.be/zIRo7NJ4uLE
+
+If any producer or label has an issue with me using your work, please contact me so i can remove it!
 
 
