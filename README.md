@@ -2,6 +2,9 @@
 
 It's based on [Paradise Station](https://github.com/ParadiseSS13/Paradise) - This is the customized code we use at Brazilian Station server on BYOND. I've made some modifications, so i'm uploading the source. Enjoy.
 
+# Information
+This is a code used in a Brazilian server. Everyone is welcome to contribute though.
+
 # Getting the code
 The more complicated and easier to update method is using git.  
 You'll need to download git or some client from [here](http://git-scm.com/).  
