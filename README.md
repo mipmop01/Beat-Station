@@ -4,7 +4,7 @@ It's based on [Paradise Station](https://github.com/ParadiseSS13/Paradise) - Thi
 
 # Information
 This is a code used in a Brazilian server. Everyone is welcome to contribute though.
-I'm currently using music from Kevin MacLeod. Licenses are on the bottom of the file.
+I'm currently using music from Kevin MacLeod and SiriusBeat. Licenses are on the bottom of the file.
 
 # Getting the code
 The more complicated and easier to update method is using git.  
@@ -128,18 +128,24 @@ Creative Commons 3.0 BY-SA license (https://creativecommons.org/licenses/by-sa/3
 unless otherwise indicated.
 
 Credits for songs used:
+
 Thunderbird Kevin MacLeod (incompetech.com)
 Licensed under Creative Commons: By Attribution 3.0 License
 http://creativecommons.org/licenses/by/3.0/
-Thunderbird Kevin MacLeod (incompetech.com)
-Licensed under Creative Commons: By Attribution 3.0 License
+
+"Floating Cities"
+Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
 http://creativecommons.org/licenses/by/3.0/
+
 Orion 300XB Kevin MacLeod (incompetech.com)
 Licensed under Creative Commons: By Attribution 3.0 License
 http://creativecommons.org/licenses/by/3.0/
+
 Myst on the Moor Kevin MacLeod (incompetech.com)
 Licensed under Creative Commons: By Attribution 3.0 License
 http://creativecommons.org/licenses/by/3.0/
+
 Music by: Sirius Beat - Tronicles
 Link: http://youtu.be/zIRo7NJ4uLE
 
