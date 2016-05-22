@@ -4,6 +4,7 @@ It's based on [Paradise Station](https://github.com/ParadiseSS13/Paradise) - Thi
 
 # Information
 This is a code used in a Brazilian server. Everyone is welcome to contribute though.
+README UPDATE ABOUT NEW MUSIC: I've implemented new lobby music to play. All the rights goes to their respective owners. Github user "nopm" takes no ownership & credit for the songs. All the rights to the respective producers. If you are one of the producers and have an issue with the song(s), please send me a PM and i'll remove it immediatly. Thanks!
 
 # Getting the code
 The more complicated and easier to update method is using git.  
