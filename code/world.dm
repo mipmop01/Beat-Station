@@ -449,9 +449,5 @@ proc/establish_db_connection()
 		return setup_database_connection()
 	else
 		return 1
-mob
-  verb
-    smile()
-      world << "[usr] grins."
 
 #undef FAILED_DB_CONNECTION_CUTOFF
